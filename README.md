@@ -1,10 +1,6 @@
-# Olá, Sou Guilherme Piazzoli | QA Software • Tester • Automação de Testes
-
-<div align="center">
-  <img src="https://github.com/guipiazzoli.png" width="220" style="border-radius: 50%;" />
-</div>
-
+# Olá, Sou Guilherme Piazzoli 
 <br>
+# QA Software • Tester • Automação de Testes
 
 <div align="center">
 
@@ -55,87 +51,6 @@
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 
 </div>
-
----
-
-# 💼 Experiência Profissional
-
-## 🔹 Fundação CPQD — Técnico de Ensaios
-📅 Agosto/2024 - Atualmente
-
-- Execução de testes SAR e EMC
-- Desenvolvimento de automações para relatórios
-- Utilização de Jira e documentação técnica
-- Testes em tecnologias 2G, 3G, 4G e 5G
-
----
-
-## 🔹 Cellavita Pesq. Científicas Ltda. — Técnico da Garantia da Qualidade II
-📅 Agosto/2022 - Agosto/2024
-
-- Gestão de qualidade em ambiente regulado pela ANVISA e FDA
-- Protocolos IQ/OQ/QD
-- Controle ambiental VAISALA
-- Rastreabilidade via SAP
-- Validação de sistemas computacionais
-
----
-
-## 🔹 ECC Certificação Ltda. — Técnico Mecatrônico
-📅 Outubro/2016 - Julho/2022
-
-- Certificações HVAC e áreas limpas
-- Relatórios técnicos e protocolos IQ/OQ
-- Automação de sistemas de controle de ar
-
----
-
-# 🚀 Projetos
-
-## 📚 Sistema de Gerenciamento de Biblioteca
-- Linguagem: Python
-- Projeto acadêmico
-
-## 🏥 Sistema de Gestão de Clínica Médica
-- Linguagens: Python / C
-- Projeto acadêmico
-
-## 🌐 Site Teste
-- Linguagens: HTML / CSS / JavaScript
-- Projeto pessoal
-
----
-
-# 📚 Cursos e Certificações
-
-- ✅ QA: Processos e Automação de Testes — Alura
-- ✅ Cypress: automatizando testes E2E — Alura
-- ✅ Robot Framework BDD — Alura
-- ✅ Git e GitHub — Alura
-- ✅ Java & QA Developer — DIO / Bradesco
-- ✅ Machine Learning Training — DIO / BairesDev
-- ✅ Introdução à Programação com Python — Santander Open Academy
-
----
-
-# 📈 Estatísticas GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=guipiazzoli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guipiazzoli&layout=compact&langs_count=7&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🌎 Idiomas
-
-- 🇺🇸 Inglês — Intermediário
-- 🇪🇸 Espanhol — Intermediário
-
----
 
 # 📫 Contato
 
