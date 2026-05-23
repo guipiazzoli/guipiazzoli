@@ -2,9 +2,7 @@
 <br>
 QA Software • Tester • Automação de Testes
 
-<br>
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilherme-piazzoli-fortunato-53a0bb244/)
-<br>
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guipiazzoli)
 
 </div>
