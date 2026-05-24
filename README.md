@@ -1,5 +1,4 @@
 # Olá, Sou Guilherme Piazzoli 
-<br>
 QA Software • Tester • Automação de Testes
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilherme-piazzoli-fortunato-53a0bb244/)
